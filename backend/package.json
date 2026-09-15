@@ -1,0 +1,12 @@
+{
+  "name": "wuwa-uzbek-language-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Backend API for the Wuthering Waves Uzbek Language Campaign",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
