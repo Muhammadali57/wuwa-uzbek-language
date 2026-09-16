@@ -1,13 +1,88 @@
-const translations={en:{brandSubtitle:'Uzbek Language Campaign',navWhy:'Why Uzbek?',navSupporters:'Supporters',navMessage:'Our Message',navFaq:'FAQ',eyebrow:'COMMUNITY-LED GLOBAL CAMPAIGN',heroLine1:'LET EVERY',heroLine2:'VOICE BE HEARD.',heroLead:'Bring Uzbek language support to Wuthering Waves and make Solaris-3 more accessible to Uzbek-speaking players.',voteNow:'VOTE NOW',learnMore:'LEARN MORE',globalSupporters:'GLOBAL SUPPORTERS',live:'LIVE',liveUpdates:'COUNTER UPDATES',whyKicker:'THE REQUEST',whyTitle:'One language.<br>One more voice.',whyText1:'Wuthering Waves connects players across cultures, countries and languages. We believe Uzbek-speaking players should have the opportunity to experience the world of Solaris-3 in their own language.',whyText2:'This project is a community effort to show Kuro Games that there is real, measurable interest in Uzbek language support.',card1Title:'Uzbek Speakers',card1Text:'A large and growing global Uzbek-speaking community deserves stronger representation in games they love.',card2Title:'Player Community',card2Text:'The request is powered by real players who want to spend more time in Solaris-3.',card3Title:'Global Support',card3Text:'Anyone around the world can stand with Uzbek Rovers and help amplify the request.',card4Title:'More Inclusive',card4Text:'More language support means more players can feel at home while exploring the game.',voteKicker:'MAKE YOUR VOICE COUNT',voteTitle:'Support Uzbek<br>language in Wuthering Waves.',voteText:'Enter your email address to cast your support. Verification will be connected later when the campaign backend is added.',emailLabel:'Email address',castVote:'CAST YOUR VOTE',emailNote:'Your email will not be displayed publicly.',supportKicker:'SUPPORTED AROUND THE WORLD',supportTitle:'One request.<br>Many countries.',liveMap:'LIVE COMMUNITY MAP',voicesKicker:'VOICES FROM THE COMMUNITY',voicesTitle:'Players are listening.',shareKicker:'HELP US REACH MORE ROVERS',shareTitle:'One vote can become<br>many more voices.',goalKicker:'GLOBAL SUPPORT GOAL',messageKicker:'OUR MESSAGE TO KURO GAMES',messageTitle:'A respectful request<br>from the community.',faqTitle:'Questions,<br>answered.',aboutKicker:'ABOUT THE CAMPAIGN',aboutTitle:'Community first.<br>Transparent always.',aboutText:'This project is a community-led initiative created by Wuthering Waves players who would like to see Uzbek language support added to the game.'},uz:{brandSubtitle:'O‘zbek tili kampaniyasi',navWhy:'Nega o‘zbek tili?',navSupporters:'Qo‘llab-quvvatlovchilar',navMessage:'Murojaatimiz',navFaq:'Savol-javob',eyebrow:'JAMOATCHILIK BOSHQARUVIDAGI GLOBAL KAMPANIYA',heroLine1:'HAR BIR',heroLine2:'OVOZ ESHITILSIN.',heroLead:'Wuthering Waves o‘yiniga o‘zbek tili qo‘shilishini qo‘llab-quvvatlang va Solaris-3 olamini o‘zbek tilida yanada qulay qiling.',voteNow:'OVOZ BERISH',learnMore:'BATAFSIL',globalSupporters:'GLOBAL QO‘LLAB-QUVVATLOVCHILAR',live:'JONLI',liveUpdates:'HISOB YANGILANADI',whyKicker:'TALAB',whyTitle:'Bir til.<br>Yana bir ovoz.',whyText1:'Wuthering Waves turli madaniyat, mamlakat va tillardagi o‘yinchilarni birlashtiradi. Biz o‘zbek tilida so‘zlashuvchi o‘yinchilar Solaris-3 olamini o‘z tilida his qilish imkoniga ega bo‘lishi kerak deb hisoblaymiz.',whyText2:'Bu loyiha Kuro Games’ga o‘zbek tili qo‘llab-quvvatlashiga haqiqiy va o‘lchanadigan qiziqish borligini ko‘rsatish uchun yaratilgan jamoaviy tashabbusdir.',card1Title:'O‘zbek tilida so‘zlashuvchilar',card1Text:'Dunyo bo‘ylab o‘sib borayotgan o‘zbek tilidagi o‘yinchilar jamoasi sevimli o‘yinlarida munosib vakillikka loyiq.',card2Title:'O‘yinchilar jamoasi',card2Text:'Talab Solaris-3’da ko‘proq vaqt o‘tkazishni istaydigan haqiqiy o‘yinchilar tomonidan qo‘llab-quvvatlanmoqda.',card3Title:'Global qo‘llab-quvvatlash',card3Text:'Dunyoning istalgan joyidagi o‘yinchi Uzbek Roverlar bilan birga turib, murojaatni kuchaytirishi mumkin.',card4Title:'Yanada inklyuziv',card4Text:'Ko‘proq til — ko‘proq o‘yinchi o‘yinni o‘ziga yaqin his qilishi demakdir.',voteKicker:'OVOZINGIZ MUHIM',voteTitle:'Wuthering Waves’da<br>o‘zbek tilini qo‘llab-quvvatlang.',voteText:'Qo‘llab-quvvatlashingizni bildirish uchun emailingizni kiriting. Tasdiqlash tizimi keyinchalik backend qo‘shilganda ulanadi.',emailLabel:'Elektron pochta',castVote:'OVOZIMNI BERAMAN',emailNote:'Email manzilingiz ommaga ko‘rsatilmaydi.',supportKicker:'BUTUN DUNYODA QO‘LLAB-QUVVATLANMOQDA',supportTitle:'Bir talab.<br>Ko‘plab mamlakatlar.',liveMap:'JONLI JAMOAT XARITASI',voicesKicker:'JAMOAT OVOZLARI',voicesTitle:'O‘yinchilar eshitmoqda.',shareKicker:'KO‘PROQ ROVERLARGA YETIB BORAMIZ',shareTitle:'Bitta ovoz<br>ko‘plab ovozga aylanishi mumkin.',goalKicker:'GLOBAL MAQSAD',messageKicker:'KURO GAMES’GA MUROJAATIMIZ',messageTitle:'Jamoatchilikdan<br>hurmatli iltimos.',faqTitle:'Savollar va<br>javoblar.',aboutKicker:'KAMPANIYA HAQIDA',aboutTitle:'Jamoa birinchi.<br>Har doim shaffof.',aboutText:'Bu loyiha Wuthering Waves o‘yinchilari tomonidan o‘yinga o‘zbek tili qo‘shilishini istab yaratilgan jamoaviy tashabbusdir.'},ru:{brandSubtitle:'Кампания за узбекский язык',navWhy:'Почему узбекский?',navSupporters:'Поддержка',navMessage:'Наше обращение',navFaq:'FAQ',eyebrow:'ГЛОБАЛЬНАЯ КАМПАНИЯ СООБЩЕСТВА',heroLine1:'ПУСТЬ КАЖДЫЙ',heroLine2:'ГОЛОС БУДЕТ УСЛЫШАН.',heroLead:'Поддержите добавление узбекского языка в Wuthering Waves и сделайте Solaris-3 доступнее для узбекоязычных игроков.',voteNow:'ПОДДЕРЖАТЬ',learnMore:'УЗНАТЬ БОЛЬШЕ',globalSupporters:'ПОДДЕРЖАЛИ В МИРЕ',live:'LIVE',liveUpdates:'СЧЁТЧИК ОБНОВЛЯЕТСЯ',whyKicker:'ЗАПРОС',whyTitle:'Один язык.<br>Ещё один голос.',whyText1:'Wuthering Waves объединяет игроков разных культур, стран и языков. Мы считаем, что узбекоязычные игроки должны иметь возможность исследовать Solaris-3 на родном языке.',whyText2:'Эта инициатива показывает Kuro Games реальный интерес сообщества к поддержке узбекского языка.',card1Title:'Узбекоязычные игроки',card1Text:'Растущее узбекоязычное сообщество заслуживает представительства в любимых играх.',card2Title:'Игровое сообщество',card2Text:'Запрос поддерживают реальные игроки, которые хотят проводить больше времени в Solaris-3.',card3Title:'Глобальная поддержка',card3Text:'Игроки со всего мира могут поддержать Uzbek Rovers и усилить этот запрос.',card4Title:'Больше доступности',card4Text:'Дополнительные языки помогают большему числу игроков чувствовать себя дома.',voteKicker:'ВАШ ГОЛОС ВАЖЕН',voteTitle:'Поддержите узбекский<br>язык в Wuthering Waves.',voteText:'Введите email, чтобы выразить поддержку. Проверка будет подключена после добавления серверной части.',emailLabel:'Электронная почта',castVote:'ПОДДЕРЖАТЬ',emailNote:'Ваш email не будет опубликован.',supportKicker:'ПОДДЕРЖКА СО ВСЕГО МИРА',supportTitle:'Один запрос.<br>Много стран.',liveMap:'КАРТА СООБЩЕСТВА В РЕАЛЬНОМ ВРЕМЕНИ',voicesKicker:'ГОЛОСА СООБЩЕСТВА',voicesTitle:'Игроки слышат.',shareKicker:'ПОМОГИТЕ НАМ ОХВАТИТЬ БОЛЬШЕ ROVER',shareTitle:'Один голос может стать<br>множеством голосов.',goalKicker:'ГЛОБАЛЬНАЯ ЦЕЛЬ',messageKicker:'НАШЕ ОБРАЩЕНИЕ К KURO GAMES',messageTitle:'Уважительная просьба<br>от сообщества.',faqTitle:'Вопросы и<br>ответы.',aboutKicker:'О КАМПАНИИ',aboutTitle:'Сначала сообщество.<br>Всегда прозрачно.',aboutText:'Это общественная инициатива игроков Wuthering Waves, которые хотят видеть поддержку узбекского языка в игре.'}};
+(() => {
+  const API_BASE = window.WUWA_API_BASE || 'https://wuwa-uzbek-language-two.vercel.app/api';
+  const state = { language: localStorage.getItem('wuwa-language') || 'en', translations: {}, registry: [] };
+  const $ = (s, p = document) => p.querySelector(s);
+  const $$ = (s, p = document) => [...p.querySelectorAll(s)];
+  const t = (key, fallback = key) => state.translations[state.language]?.[key] ?? state.translations.en?.[key] ?? fallback;
+  const esc = v => { const d = document.createElement('div'); d.textContent = String(v ?? ''); return d.innerHTML; };
 
-const state={count:12848,language:localStorage.getItem('wuwa-language')||'en'};
-const $=(s,p=document)=>p.querySelector(s);const $$=(s,p=document)=>[...p.querySelectorAll(s)];
-function format(n){return n.toLocaleString('en-US')}
-function applyLanguage(lang){const t=translations[lang]||translations.en;state.language=lang;localStorage.setItem('wuwa-language',lang);document.documentElement.lang=lang==='zh-CN'?'zh':lang;$$('[data-i18n]').forEach(el=>{const key=el.dataset.i18n;if(t[key]!==undefined)el.innerHTML=t[key]});const select=$('#languageSelect');if(select)select.value=lang}
-function showToast(message){const el=$('#toast');el.textContent=message;el.classList.add('show');clearTimeout(window.toastTimer);window.toastTimer=setTimeout(()=>el.classList.remove('show'),2600)}
-function initReveal(){const io=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target)}}),{threshold:.12});$$('.reveal').forEach(el=>io.observe(el))}
-function initMenu(){const btn=$('#menuToggle');const nav=$('.desktop-nav');if(!btn||!nav)return;btn.addEventListener('click',()=>{const open=nav.classList.toggle('mobile-open');btn.setAttribute('aria-expanded',String(open))});$$('.desktop-nav a').forEach(a=>a.addEventListener('click',()=>nav.classList.remove('mobile-open')))}
-function initVote(){const form=$('#voteForm');if(!form)return;form.addEventListener('submit',e=>{e.preventDefault();const email=$('#email').value.trim();if(!email)return;state.count++;$$('.counter').forEach(el=>{el.textContent=format(state.count)});$('#voteNotice').hidden=false;$('#voteNotice').textContent=state.language==='uz'?'Rahmat! Demo ovozingiz qabul qilindi.':'Thank you! Your demo support has been counted.';form.reset();showToast(state.language==='uz'?'Qo‘llab-quvvatlaganingiz uchun rahmat!':'Thank you for your support!')})}
-function initShare(){const url=encodeURIComponent(location.href);const text=encodeURIComponent('Support Uzbek language in Wuthering Waves 🇺🇿');$$('[data-share]').forEach(btn=>btn.addEventListener('click',async()=>{const type=btn.dataset.share;let target='';if(type==='reddit')target=`https://www.reddit.com/submit?url=${url}&title=${text}`;if(type==='x')target=`https://twitter.com/intent/tweet?url=${url}&text=${text}`;if(type==='telegram')target=`https://t.me/share/url?url=${url}&text=${text}`;if(type==='copy'){try{await navigator.clipboard.writeText(location.href);showToast(state.language==='uz'?'Havola nusxalandi!':'Link copied!')}catch{showToast('Copy failed')}}else if(target)window.open(target,'_blank','noopener,noreferrer')})}
-function init(){applyLanguage(state.language);$('#languageSelect')?.addEventListener('change',e=>applyLanguage(e.target.value));initReveal();initMenu();initVote();initShare();document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',()=>{if(a.getAttribute('href')==='#top')window.scrollTo({top:0,behavior:'smooth'})}))}
-document.addEventListener('DOMContentLoaded',init);
+  function applyLanguage(lang) {
+    if (!state.translations[lang]) lang = state.translations.en ? 'en' : state.language;
+    state.language = lang; localStorage.setItem('wuwa-language', lang);
+    document.documentElement.lang = lang === 'zh-CN' ? 'zh' : lang;
+    $$('[data-i18n]').forEach(el => el.innerHTML = t(el.dataset.i18n));
+    $$('[data-i18n-placeholder]').forEach(el => el.placeholder = t(el.dataset.i18nPlaceholder, el.placeholder));
+    $$('[data-i18n-aria]').forEach(el => el.setAttribute('aria-label', t(el.dataset.i18nAria, el.getAttribute('aria-label') || '')));
+    buildLanguageSelector(); buildCountrySelector($('#country'));
+    document.dispatchEvent(new CustomEvent('wuwa:languagechange', { detail: { language: lang } }));
+  }
+
+  function buildLanguageSelector() {
+    const s = $('#languageSelect'); if (!s || !state.registry.length) return;
+    s.innerHTML = state.registry.map(x => `<option value="${esc(x.code)}">${esc(x.nativeName || x.name)}</option>`).join('');
+    s.value = state.language;
+  }
+
+  const COUNTRY_CODES = ['AF','AL','DZ','AD','AO','AG','AR','AM','AU','AT','AZ','BS','BH','BD','BB','BY','BE','BZ','BJ','BT','BO','BA','BW','BR','BN','BG','BF','BI','CV','KH','CM','CA','CF','TD','CL','CN','CO','KM','CG','CD','CR','CI','HR','CU','CY','CZ','DK','DJ','DM','DO','EC','EG','SV','GQ','ER','EE','SZ','ET','FJ','FI','FR','GA','GM','GE','DE','GH','GR','GD','GT','GN','GW','GY','HT','HN','HU','IS','IN','ID','IR','IQ','IE','IL','IT','JM','JP','JO','KZ','KE','KI','KP','KR','KW','KG','LA','LV','LB','LS','LR','LY','LI','LT','LU','MG','MW','MY','MV','ML','MT','MH','MR','MU','MX','FM','MD','MC','MN','ME','MA','MZ','MM','NA','NR','NP','NL','NZ','NI','NE','NG','MK','NO','OM','PK','PW','PS','PA','PG','PY','PE','PH','PL','PT','QA','RO','RU','RW','KN','LC','VC','WS','SM','ST','SA','SN','RS','SC','SL','SG','SK','SI','SB','SO','ZA','SS','ES','LK','SD','SR','SE','CH','SY','TJ','TZ','TH','TL','TG','TO','TT','TN','TR','TM','TV','UG','UA','AE','GB','US','UY','UZ','VU','VA','VE','VN','YE','ZM','ZW'];
+  const flag = code => [...code].map(c => String.fromCodePoint(127397 + c.charCodeAt())).join('');
+  function countryName(code) { try { return new Intl.DisplayNames([state.language, 'en'], { type: 'region' }).of(code) || code; } catch { return code; } }
+  function buildCountrySelector(s) {
+    if (!s) return;
+    const current = s.value || 'XX';
+    s.innerHTML = `<option value="XX">🌍 ${esc(t('countryLabel', 'Select country'))}</option>` + COUNTRY_CODES.map(c => `<option value="${c}">${flag(c)} ${esc(countryName(c))}</option>`).join('');
+    s.value = COUNTRY_CODES.includes(current) ? current : 'XX';
+  }
+  async function detectCountry() {
+    const s = $('#country'); if (!s) return;
+    try {
+      const r = await fetch(API_BASE + '/geo', { cache: 'no-store' }), d = await r.json();
+      if (r.ok && d.ok && COUNTRY_CODES.includes(d.country)) { s.value = d.country; s.dataset.detected = 'true'; }
+    } catch { /* manual selection remains available */ }
+  }
+
+  function showToast(message) {
+    const el = $('#toast'); if (!el) return;
+    el.textContent = message; el.classList.add('show'); clearTimeout(window.toastTimer);
+    window.toastTimer = setTimeout(() => el.classList.remove('show'), 2600);
+  }
+  window.showToast = showToast;
+  window.I18N = { ready: Promise.resolve(), t, apply: applyLanguage, get language() { return state.language; }, onChange: fn => document.addEventListener('wuwa:languagechange', fn) };
+
+  function initReveal() {
+    if (!('IntersectionObserver' in window)) { $$('.reveal').forEach(x => x.classList.add('visible')); return; }
+    const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); } }), { threshold: .12 });
+    $$('.reveal').forEach(el => io.observe(el));
+  }
+  function initMenu() {
+    const btn = $('#menuToggle'), nav = $('.desktop-nav'); if (!btn || !nav) return;
+    btn.addEventListener('click', () => { const open = nav.classList.toggle('mobile-open'); btn.setAttribute('aria-expanded', String(open)); });
+    $$('.desktop-nav a').forEach(a => a.addEventListener('click', () => nav.classList.remove('mobile-open')));
+  }
+  function initShare() {
+    $$('[data-share]').forEach(btn => btn.addEventListener('click', async () => {
+      const type = btn.dataset.share, url = location.href, text = t('shareText', 'Support Uzbek language in Wuthering Waves');
+      if (type === 'copy') { try { await navigator.clipboard.writeText(url); showToast(t('copySuccess', 'Link copied!')); } catch { showToast(t('copyFail', 'Could not copy the link.')); } return; }
+      const u = encodeURIComponent(url), tx = encodeURIComponent(text); let target = '';
+      if (type === 'reddit') target = `https://www.reddit.com/submit?url=${u}&title=${tx}`;
+      if (type === 'x') target = `https://twitter.com/intent/tweet?url=${u}&text=${tx}`;
+      if (type === 'telegram') target = `https://t.me/share/url?url=${u}&text=${tx}`;
+      if (type === 'native' && navigator.share) { try { await navigator.share({ title: document.title, text, url }); } catch {} return; }
+      if (target) window.open(target, '_blank', 'noopener,noreferrer');
+    }));
+  }
+  async function loadLocales() {
+    const r = await fetch('locales/index.json', { cache: 'no-store' }); if (!r.ok) throw new Error('Locale registry failed');
+    const registry = await r.json(); state.registry = Array.isArray(registry) ? registry : registry.locales || [];
+    const loaded = await Promise.all(state.registry.map(async item => { try { const x = await fetch(`locales/${encodeURIComponent(item.code)}.json`, { cache: 'no-store' }); return x.ok ? [item.code, await x.json()] : null; } catch { return null; } }));
+    loaded.filter(Boolean).forEach(([code, data]) => state.translations[code] = data);
+    if (!state.translations[state.language]) state.language = state.translations.en ? 'en' : Object.keys(state.translations)[0];
+  }
+  async function init() {
+    try { await loadLocales(); } catch (e) { console.error(e); }
+    buildLanguageSelector(); applyLanguage(state.language);
+    $('#languageSelect')?.addEventListener('change', e => applyLanguage(e.target.value));
+    buildCountrySelector($('#country')); detectCountry(); initReveal(); initMenu(); initShare();
+    $$('a[href^="#"]').forEach(a => a.addEventListener('click', () => { if (a.getAttribute('href') === '#top') window.scrollTo({ top: 0, behavior: 'smooth' }); }));
+  }
+  document.addEventListener('DOMContentLoaded', init);
+})();
