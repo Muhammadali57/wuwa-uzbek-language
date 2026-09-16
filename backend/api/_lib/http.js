@@ -7,11 +7,7 @@ function getAllowedOrigin() {
 function setCors(res, requestOrigin) {
   const allowed = getAllowedOrigin();
   const origin = allowed === '*' ? '*' : requestOrigin === allowed ? allowed : '';
-
-  if (origin) {
-    res.setHeader('Access-Control-Allow-Origin', origin);
-  }
-
+  if (origin) res.setHeader('Access-Control-Allow-Origin', origin);
   res.setHeader('Vary', 'Origin');
   res.setHeader('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
@@ -41,9 +37,12 @@ function hashValue(value) {
 }
 
 function getCountry(req, bodyCountry) {
-  const headerCountry = req.headers['x-vercel-ip-country'] || req.headers['cf-ipcountry'];
-  const candidate = headerCountry || bodyCountry || 'XX';
-  return /^[A-Za-z]{2}$/.test(candidate) ? candidate.toUpperCase() : 'XX';
+  // A deliberate manual selection wins over IP detection. This lets users
+  // correct VPN/proxy geolocation while still providing an automatic default.
+  const manual = String(bodyCountry || '').trim().toUpperCase();
+  if (/^[A-Z]{2}$/.test(manual)) return manual;
+  const detected = String(req.headers['x-vercel-ip-country'] || req.headers['cf-ipcountry'] || 'XX').toUpperCase();
+  return /^[A-Z]{2}$/.test(detected) ? detected : 'XX';
 }
 
 function normalizeEmail(email) {
