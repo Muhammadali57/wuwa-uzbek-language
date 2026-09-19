@@ -96,5 +96,9 @@
   "copyFail": "Could not copy the link.",
   "voteRate": "Too many attempts. Please try again later.",
   "name": "Romanian",
-  "nativeName": "Română"
+  "nativeName": "Română",
+  "countryLabel": "Țară",
+  "countryHelp": "Țara ta este detectată automat; o poți schimba dacă folosești un VPN.",
+  "countryRequired": "Selectează țara ta.",
+  "shareText": "Susține limba uzbecă în Wuthering Waves"
 }
