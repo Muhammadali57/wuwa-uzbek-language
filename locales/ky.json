@@ -96,5 +96,9 @@
   "copyFail": "Could not copy the link.",
   "voteRate": "Too many attempts. Please try again later.",
   "name": "Kyrgyz",
-  "nativeName": "Кыргызча"
+  "nativeName": "Кыргызча",
+  "countryLabel": "Өлкө",
+  "countryHelp": "Өлкөңүз автоматтык түрдө аныкталат; VPN колдонсоңуз, аны өзгөртө аласыз.",
+  "countryRequired": "Өлкөңүздү тандаңыз.",
+  "shareText": "Wuthering Waves оюнунда өзбек тилин колдоңуз"
 }
