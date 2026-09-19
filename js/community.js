@@ -14,7 +14,7 @@
         const card=cards[i];if(!card)return;
         const p=card.querySelector('p'),small=card.querySelector('small');
         if(p)p.textContent=m.message;
-        if(small)small.textContent=`${flag(m.country)} ${countryName(String(m.country||'XX'))} · ${m.nickname||'Anonymous Rover'}`;
+        if(small)small.textContent=`${flag(m.country)} ${countryName(String(m.country||'XX'))} · ${m.nickname||tr('quote1Meta','Anonymous Rover').split('·').pop().trim()}`;
       });
     }catch{}
   }
