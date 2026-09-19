@@ -108,5 +108,65 @@
     "code": "cs",
     "name": "Czech",
     "nativeName": "Čeština"
+  },
+  {
+    "code": "hi",
+    "name": "Hindi",
+    "nativeName": "हिन्दी"
+  },
+  {
+    "code": "fil",
+    "name": "Filipino",
+    "nativeName": "Filipino"
+  },
+  {
+    "code": "hu",
+    "name": "Hungarian",
+    "nativeName": "Magyar"
+  },
+  {
+    "code": "ro",
+    "name": "Romanian",
+    "nativeName": "Română"
+  },
+  {
+    "code": "el",
+    "name": "Greek",
+    "nativeName": "Ελληνικά"
+  },
+  {
+    "code": "he",
+    "name": "Hebrew",
+    "nativeName": "עברית"
+  },
+  {
+    "code": "kk",
+    "name": "Kazakh",
+    "nativeName": "Қазақша"
+  },
+  {
+    "code": "ky",
+    "name": "Kyrgyz",
+    "nativeName": "Кыргызча"
+  },
+  {
+    "code": "tg",
+    "name": "Tajik",
+    "nativeName": "Тоҷикӣ"
+  },
+  {
+    "code": "tk",
+    "name": "Turkmen",
+    "nativeName": "Türkmençe"
+  },
+  {
+    "code": "fa",
+    "name": "Persian",
+    "nativeName": "فارسی"
+  },
+  {
+    "code": "az",
+    "name": "Azerbaijani",
+    "nativeName": "Azərbaycan dili"
   }
 ]
