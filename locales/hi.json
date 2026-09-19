@@ -96,5 +96,9 @@
   "copyFail": "Could not copy the link.",
   "voteRate": "Too many attempts. Please try again later.",
   "name": "Hindi",
-  "nativeName": "हिन्दी"
+  "nativeName": "हिन्दी",
+  "countryLabel": "देश",
+  "countryHelp": "आपका देश अपने आप पहचाना जाता है; VPN का उपयोग करने पर आप इसे बदल सकते हैं।",
+  "countryRequired": "कृपया अपना देश चुनें।",
+  "shareText": "Wuthering Waves में उज़्बेक भाषा का समर्थन करें"
 }
