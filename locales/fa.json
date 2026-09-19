@@ -96,5 +96,9 @@
   "copyFail": "Could not copy the link.",
   "voteRate": "Too many attempts. Please try again later.",
   "name": "Persian",
-  "nativeName": "فارسی"
+  "nativeName": "فارسی",
+  "countryLabel": "کشور",
+  "countryHelp": "کشور شما به‌صورت خودکار شناسایی می‌شود؛ اگر از VPN استفاده می‌کنید می‌توانید آن را تغییر دهید.",
+  "countryRequired": "کشور خود را انتخاب کنید.",
+  "shareText": "از زبان ازبکی در Wuthering Waves حمایت کنید"
 }
