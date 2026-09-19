@@ -96,5 +96,9 @@
   "copyFail": "Could not copy the link.",
   "voteRate": "Too many attempts. Please try again later.",
   "name": "Tajik",
-  "nativeName": "Тоҷикӣ"
+  "nativeName": "Тоҷикӣ",
+  "countryLabel": "Кишвар",
+  "countryHelp": "Кишвари шумо ба таври худкор муайян мешавад; агар VPN истифода баред, онро тағйир дода метавонед.",
+  "countryRequired": "Лутфан кишвари худро интихоб кунед.",
+  "shareText": "Забони ӯзбекиро дар Wuthering Waves дастгирӣ кунед"
 }
