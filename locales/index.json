@@ -68,5 +68,45 @@
     "code": "ar",
     "name": "Arabic",
     "nativeName": "العربية"
+  },
+  {
+    "code": "uk",
+    "name": "Ukrainian",
+    "nativeName": "Українська"
+  },
+  {
+    "code": "it",
+    "name": "Italian",
+    "nativeName": "Italiano"
+  },
+  {
+    "code": "pl",
+    "name": "Polish",
+    "nativeName": "Polski"
+  },
+  {
+    "code": "th",
+    "name": "Thai",
+    "nativeName": "ไทย"
+  },
+  {
+    "code": "ms",
+    "name": "Malay",
+    "nativeName": "Bahasa Melayu"
+  },
+  {
+    "code": "nl",
+    "name": "Dutch",
+    "nativeName": "Nederlands"
+  },
+  {
+    "code": "sv",
+    "name": "Swedish",
+    "nativeName": "Svenska"
+  },
+  {
+    "code": "cs",
+    "name": "Czech",
+    "nativeName": "Čeština"
   }
 ]
