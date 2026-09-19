@@ -96,5 +96,9 @@
   "copyFail": "Could not copy the link.",
   "voteRate": "Too many attempts. Please try again later.",
   "name": "Greek",
-  "nativeName": "Ελληνικά"
+  "nativeName": "Ελληνικά",
+  "countryLabel": "Χώρα",
+  "countryHelp": "Η χώρα σας εντοπίζεται αυτόματα· μπορείτε να την αλλάξετε αν χρησιμοποιείτε VPN.",
+  "countryRequired": "Επιλέξτε τη χώρα σας.",
+  "shareText": "Υποστηρίξτε την ουζμπεκική γλώσσα στο Wuthering Waves"
 }
