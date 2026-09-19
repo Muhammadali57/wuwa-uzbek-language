@@ -96,5 +96,9 @@
   "copyFail": "Could not copy the link.",
   "voteRate": "Too many attempts. Please try again later.",
   "name": "Azerbaijani",
-  "nativeName": "Azərbaycan dili"
+  "nativeName": "Azərbaycan dili",
+  "countryLabel": "Ölkə",
+  "countryHelp": "Ölkəniz avtomatik müəyyən edilir; VPN istifadə edirsinizsə, onu dəyişə bilərsiniz.",
+  "countryRequired": "Zəhmət olmasa ölkənizi seçin.",
+  "shareText": "Wuthering Waves-də özbək dilini dəstəkləyin"
 }
