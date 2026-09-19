@@ -96,5 +96,9 @@
   "copyFail": "Could not copy the link.",
   "voteRate": "Too many attempts. Please try again later.",
   "name": "Filipino",
-  "nativeName": "Filipino"
+  "nativeName": "Filipino",
+  "countryLabel": "Bansa",
+  "countryHelp": "Awtomatikong natutukoy ang iyong bansa; maaari mo itong baguhin kung gumagamit ka ng VPN.",
+  "countryRequired": "Piliin ang iyong bansa.",
+  "shareText": "Suportahan ang wikang Uzbek sa Wuthering Waves"
 }
