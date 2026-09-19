@@ -96,5 +96,9 @@
   "copyFail": "Could not copy the link.",
   "voteRate": "Too many attempts. Please try again later.",
   "name": "Kazakh",
-  "nativeName": "Қазақша"
+  "nativeName": "Қазақша",
+  "countryLabel": "Ел",
+  "countryHelp": "Еліңіз автоматты түрде анықталады; VPN қолдансаңыз, оны өзгерте аласыз.",
+  "countryRequired": "Еліңізді таңдаңыз.",
+  "shareText": "Wuthering Waves ойынындағы өзбек тілін қолдаңыз"
 }
