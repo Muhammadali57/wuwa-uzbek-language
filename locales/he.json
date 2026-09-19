@@ -96,5 +96,9 @@
   "copyFail": "Could not copy the link.",
   "voteRate": "Too many attempts. Please try again later.",
   "name": "Hebrew",
-  "nativeName": "עברית"
+  "nativeName": "עברית",
+  "countryLabel": "מדינה",
+  "countryHelp": "המדינה שלך מזוהה אוטומטית; ניתן לשנות אותה אם משתמשים ב-VPN.",
+  "countryRequired": "בחר את המדינה שלך.",
+  "shareText": "תמכו בשפה האוזבקית ב-Wuthering Waves"
 }
