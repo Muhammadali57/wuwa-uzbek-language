@@ -96,5 +96,9 @@
   "copyFail": "Could not copy the link.",
   "voteRate": "Too many attempts. Please try again later.",
   "name": "Turkmen",
-  "nativeName": "Türkmençe"
+  "nativeName": "Türkmençe",
+  "countryLabel": "Ýurt",
+  "countryHelp": "Ýurduňyz awtomatiki kesgitlenýär; VPN ulanýan bolsaňyz, ony üýtgedip bilersiňiz.",
+  "countryRequired": "Ýurdyňyzy saýlaň.",
+  "shareText": "Wuthering Waves-de özbek dilini goldaň"
 }
