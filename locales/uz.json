@@ -94,5 +94,14 @@
   "error": "Nimadir xato ketdi. Qayta urinib ko‘ring.",
   "copySuccess": "Havola nusxalandi!",
   "copyFail": "Havolani nusxalab bo‘lmadi.",
-  "voteRate": "Juda ko‘p urinish. Keyinroq qayta urinib ko‘ring."
+  "voteRate": "Juda ko‘p urinish. Keyinroq qayta urinib ko‘ring.",
+  "navEvidence": "Yangi signal",
+  "evidenceKicker": "YANGI BOZOR SIGNALI",
+  "evidenceTitle": "UZS narxlash paydo bo‘ldi.",
+  "evidenceText": "2026-yil 30-sentabrda, 3.7-versiya bilan Wuthering Waves O‘zbekistondagi o‘yinchilar uchun o‘yin ichidagi xarid narxlarini O‘zbekiston so‘mida (UZS) ko‘rsata boshladi. Quyidagi skrinshotlar o‘yinda kuzatilgan ushbu o‘zgarishni qayd etadi.",
+  "evidenceWhy": "Bu nima uchun muhim?",
+  "evidenceCaveat": "Mahalliy valyutadagi narxlar muayyan bozor yoki to‘lov hududiga yanada bevosita qo‘llab-quvvatlash berilayotganini anglatishi mumkin. Bu o‘z-o‘zidan o‘zbek tili rasmiy qo‘shilganini tasdiqlamaydi, ammo kengroq lokalizatsiya sari ilk qadam bo‘lishi mumkin.",
+  "evidenceShot1": "O‘yin ichidagi xarid narxlari UZSda",
+  "evidenceShot2": "Lunite paketlari O‘zbekiston so‘mida",
+  "evidenceShot3": "Lunite Subscription UZSda"
 }
